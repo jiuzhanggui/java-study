@@ -6,7 +6,7 @@ package cn.winebibber.prinicples.openclose;
  * @date 2022-07-24 15:44
  * @Description:
  */
-public class Clinet {
+public class OpenCloseClient {
     public static void main(String[] args) {
         // 部门选择
         DepartmentA departmentA = new DepartmentA();
